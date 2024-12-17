@@ -4,7 +4,7 @@
 
 *[Insert dates of the workshop]*
 
-# Welcome
+## Welcome
 Welcome to CBW’s [workshop name, year] Workshop!
 
 Put some introductory content here. (ex. links to bioinformatics.ca, general info)
