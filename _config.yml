@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: \[Workshop Name][Year] # EDIT
+title: \[Workshop Name][Year] # EDIT (the backslash escapes the square bracket, you can remove it)
 author: \[List instructor names] # EDIT
 logo: img/bioinformatics_logo.png
 

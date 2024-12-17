@@ -16,16 +16,15 @@ Notes:
 
 <!-- This is a comment. --> Some explanations for in template will be in these comments.
 
-You can instantly make a comment by clicking on the line with the text you want to comment and using the keyboard command: `cmd/ctrl` + `shift` + `c`.
+You can instantly make a comment by clicking on the line with the text you want to comment and using the keyboard command: `cmd` + `/` on macOS or `ctrl` + `/` on Windows.
 
 ### Content in Square Brackets
 
-Content that you should replace is written in square brackets [insert here].
+Content that you should replace is written in square brackets, such as: [insert here].
 
-*Currently a work-in-progress.*
+*Currently a work-in-progress*
 
 # Development Notes:
 - Michelle + Nia can update the photos if they want, they're in img/faculty/. (I just took these off the internet, quality might be bad)
-- update favicon.ico with one with highter quality
-
+- favicon.ico taken from bioinformaticsdotca.github.io, can update if you'd like
 - figure out good naming convention for files

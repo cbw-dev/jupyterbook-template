@@ -47,5 +47,5 @@ bioinformatician studying epigenetic and transcriptomic patterns across maize va
 
 ## Class Photo
 
-<!-- ![Class Photo](./img/class-photo.jpg) --> <- Replace the file address to your actual class photo file location
+![Class Photo](./img/class-photo.jpg) <- Replace the file address to your actual class photo file location
 
