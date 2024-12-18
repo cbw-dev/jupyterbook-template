@@ -20,3 +20,7 @@ parts:
     - file: markdown-notebooks
     - file: markdown
     - file: notebooks
+
+  - caption: Sponsors
+    chapters:
+    - file: sponsors
